@@ -1,0 +1,91 @@
+Product,Rating,Review,clean_text,proper_noun,ticker,tokenize,vader_compund,vader_positive,vader_negative,vader_netural,vader_label,TextBlob_polarity,TextBlob_subjectivity,TextBlob_Label,Feedback
+Essence Mascara Lash Princess,3,Would not recommend!,would not recommend,[],[],['recommend'],-0.2755,0.0,0.513,0.487,Negative,0.0,0.0,Netural,Neutral
+Essence Mascara Lash Princess,4,Very satisfied!,very satisfied,[],[],['satisfied'],0.4754,0.756,0.0,0.244,Positive,0.65,1.0,Postive,Neutral
+Essence Mascara Lash Princess,5,Highly impressed!,highly impressed,[],[],"['highly', 'impressed']",0.5256,0.772,0.0,0.228,Positive,1.0,1.0,Postive,Neutral
+Eyeshadow Palette with Mirror,5,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Eyeshadow Palette with Mirror,4,Awesome product!,awesome product,[],[],"['awesome', 'product']",0.6249,0.804,0.0,0.196,Positive,1.0,1.0,Postive,Neutral
+Eyeshadow Palette with Mirror,1,Poor quality!,poor quality,[],[],"['poor', 'quality']",-0.4767,0.0,0.756,0.244,Negative,-0.4,0.6,Netural,Neutral
+Powder Canister,4,Would buy again!,would buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Powder Canister,5,Highly impressed!,highly impressed,[],[],"['highly', 'impressed']",0.5256,0.772,0.0,0.228,Positive,1.0,1.0,Postive,Neutral
+Powder Canister,1,Very dissatisfied!,very dissatisfied,[],[],['dissatisfied'],-0.4391,0.0,0.743,0.257,Negative,0.2,0.3,Netural,Neutral
+Red Lipstick,4,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Red Lipstick,5,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Red Lipstick,5,Would buy again!,would buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Red Nail Polish,2,Poor quality!,poor quality,[],[],"['poor', 'quality']",-0.4767,0.0,0.756,0.244,Negative,-0.4,0.6,Netural,Neutral
+Red Nail Polish,5,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Red Nail Polish,1,Very unhappy with my purchase!,very unhappy with my purchase,[],[],"['unhappy', 'purchase']",-0.4754,0.0,0.436,0.564,Negative,-0.78,1.0,Negative,Negative
+Calvin Klein CK One,2,Very disappointed!,very disappointed,[],[],['disappointed'],-0.5256,0.0,0.772,0.228,Negative,-0.9750000000000001,0.9750000000000001,Negative,Negative
+Calvin Klein CK One,4,Fast shipping!,fast shipping,[],[],"['fast', 'shipping']",0.0,0.0,0.0,1.0,Netural,0.2,0.6,Netural,Netural
+Calvin Klein CK One,3,Not as described!,not as described,[],[],['described'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Chanel Coco Noir Eau De,4,Highly impressed!,highly impressed,[],[],"['highly', 'impressed']",0.5256,0.772,0.0,0.228,Positive,1.0,1.0,Postive,Neutral
+Chanel Coco Noir Eau De,5,Awesome product!,awesome product,[],[],"['awesome', 'product']",0.6249,0.804,0.0,0.196,Positive,1.0,1.0,Postive,Neutral
+Chanel Coco Noir Eau De,5,Very happy with my purchase!,very happy with my purchase,[],[],"['happy', 'purchase']",0.6115,0.5,0.0,0.5,Positive,1.0,1.0,Postive,Neutral
+Dior J'adore,5,Great value for money!,great value for money,[],[],"['great', 'value', 'money']",0.7579,0.765,0.0,0.235,Positive,0.8,0.75,Postive,Neutral
+Dior J'adore,4,Great value for money!,great value for money,[],[],"['great', 'value', 'money']",0.7579,0.765,0.0,0.235,Positive,0.8,0.75,Postive,Neutral
+Dior J'adore,4,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Dolce Shine Eau de,4,Would buy again!,would buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Dolce Shine Eau de,4,Highly recommended!,highly recommended,[],[],"['highly', 'recommended']",0.2716,0.677,0.0,0.323,Positive,0.16,0.5399999999999999,Netural,Neutral
+Dolce Shine Eau de,5,Very happy with my purchase!,very happy with my purchase,[],[],"['happy', 'purchase']",0.6115,0.5,0.0,0.5,Positive,1.0,1.0,Postive,Neutral
+Gucci Bloom Eau de,1,Very dissatisfied!,very dissatisfied,[],[],['dissatisfied'],-0.4391,0.0,0.743,0.257,Negative,0.2,0.3,Netural,Neutral
+Gucci Bloom Eau de,5,Very happy with my purchase!,very happy with my purchase,[],[],"['happy', 'purchase']",0.6115,0.5,0.0,0.5,Positive,1.0,1.0,Postive,Neutral
+Gucci Bloom Eau de,4,Highly impressed!,highly impressed,[],[],"['highly', 'impressed']",0.5256,0.772,0.0,0.228,Positive,1.0,1.0,Postive,Neutral
+Annibale Colombo Bed,2,Would not recommend!,would not recommend,[],[],['recommend'],-0.2755,0.0,0.513,0.487,Negative,0.0,0.0,Netural,Neutral
+Annibale Colombo Bed,4,Highly impressed!,highly impressed,[],[],"['highly', 'impressed']",0.5256,0.772,0.0,0.228,Positive,1.0,1.0,Postive,Neutral
+Annibale Colombo Bed,1,Poor quality!,poor quality,[],[],"['poor', 'quality']",-0.4767,0.0,0.756,0.244,Negative,-0.4,0.6,Netural,Neutral
+Annibale Colombo Sofa,3,Very unhappy with my purchase!,very unhappy with my purchase,[],[],"['unhappy', 'purchase']",-0.4754,0.0,0.436,0.564,Negative,-0.78,1.0,Negative,Negative
+Annibale Colombo Sofa,5,Fast shipping!,fast shipping,[],[],"['fast', 'shipping']",0.0,0.0,0.0,1.0,Netural,0.2,0.6,Netural,Netural
+Annibale Colombo Sofa,1,Poor quality!,poor quality,[],[],"['poor', 'quality']",-0.4767,0.0,0.756,0.244,Negative,-0.4,0.6,Netural,Neutral
+Bedside Table African Cherry,4,Excellent quality!,excellent quality,[],[],"['excellent', 'quality']",0.5719,0.787,0.0,0.213,Positive,1.0,1.0,Postive,Neutral
+Bedside Table African Cherry,4,Excellent quality!,excellent quality,[],[],"['excellent', 'quality']",0.5719,0.787,0.0,0.213,Positive,1.0,1.0,Postive,Neutral
+Bedside Table African Cherry,4,Highly recommended!,highly recommended,[],[],"['highly', 'recommended']",0.2716,0.677,0.0,0.323,Positive,0.16,0.5399999999999999,Netural,Neutral
+Knoll Saarinen Executive Conference Chair,2,Waste of money!,waste of money,[],[],"['waste', 'money']",-0.4215,0.0,0.583,0.417,Negative,-0.2,0.0,Netural,Neutral
+Knoll Saarinen Executive Conference Chair,2,Very dissatisfied!,very dissatisfied,[],[],['dissatisfied'],-0.4391,0.0,0.743,0.257,Negative,0.2,0.3,Netural,Neutral
+Knoll Saarinen Executive Conference Chair,5,Would buy again!,would buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Wooden Bathroom Sink With Mirror,4,Fast shipping!,fast shipping,[],[],"['fast', 'shipping']",0.0,0.0,0.0,1.0,Netural,0.2,0.6,Netural,Netural
+Wooden Bathroom Sink With Mirror,5,Very pleased!,very pleased,[],[],['pleased'],0.4927,0.762,0.0,0.238,Positive,0.65,1.0,Postive,Neutral
+Wooden Bathroom Sink With Mirror,3,Poor quality!,poor quality,[],[],"['poor', 'quality']",-0.4767,0.0,0.756,0.244,Negative,-0.4,0.6,Netural,Neutral
+Apple,5,Very satisfied!,very satisfied,[],[],['satisfied'],0.4754,0.756,0.0,0.244,Positive,0.65,1.0,Postive,Neutral
+Apple,1,Very dissatisfied!,very dissatisfied,[],[],['dissatisfied'],-0.4391,0.0,0.743,0.257,Negative,0.2,0.3,Netural,Neutral
+Apple,3,Very unhappy with my purchase!,very unhappy with my purchase,[],[],"['unhappy', 'purchase']",-0.4754,0.0,0.436,0.564,Negative,-0.78,1.0,Negative,Negative
+Beef Steak,3,Would not recommend!,would not recommend,[],[],['recommend'],-0.2755,0.0,0.513,0.487,Negative,0.0,0.0,Netural,Neutral
+Beef Steak,4,Fast shipping!,fast shipping,[],[],"['fast', 'shipping']",0.0,0.0,0.0,1.0,Netural,0.2,0.6,Netural,Netural
+Beef Steak,5,Great value for money!,great value for money,[],[],"['great', 'value', 'money']",0.7579,0.765,0.0,0.235,Positive,0.8,0.75,Postive,Neutral
+Cat Food,3,Would not recommend!,would not recommend,[],[],['recommend'],-0.2755,0.0,0.513,0.487,Negative,0.0,0.0,Netural,Neutral
+Cat Food,3,Very unhappy with my purchase!,very unhappy with my purchase,[],[],"['unhappy', 'purchase']",-0.4754,0.0,0.436,0.564,Negative,-0.78,1.0,Negative,Negative
+Cat Food,2,Very disappointed!,very disappointed,[],[],['disappointed'],-0.5256,0.0,0.772,0.228,Negative,-0.9750000000000001,0.9750000000000001,Negative,Negative
+Chicken Meat,5,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Chicken Meat,4,Highly recommended!,highly recommended,[],[],"['highly', 'recommended']",0.2716,0.677,0.0,0.323,Positive,0.16,0.5399999999999999,Netural,Neutral
+Chicken Meat,3,Not worth the price!,not worth the price,[],[],"['worth', 'price']",-0.1695,0.0,0.357,0.643,Negative,-0.15,0.1,Netural,Neutral
+Cooking Oil,5,Very happy with my purchase!,very happy with my purchase,[],[],"['happy', 'purchase']",0.6115,0.5,0.0,0.5,Positive,1.0,1.0,Postive,Neutral
+Cooking Oil,2,Would not recommend!,would not recommend,[],[],['recommend'],-0.2755,0.0,0.513,0.487,Negative,0.0,0.0,Netural,Neutral
+Cooking Oil,5,Would buy again!,would buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Cucumber,4,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Cucumber,4,Great value for money!,great value for money,[],[],"['great', 'value', 'money']",0.7579,0.765,0.0,0.235,Positive,0.8,0.75,Postive,Neutral
+Cucumber,2,Poor quality!,poor quality,[],[],"['poor', 'quality']",-0.4767,0.0,0.756,0.244,Negative,-0.4,0.6,Netural,Neutral
+Dog Food,5,Excellent quality!,excellent quality,[],[],"['excellent', 'quality']",0.5719,0.787,0.0,0.213,Positive,1.0,1.0,Postive,Neutral
+Dog Food,5,Awesome product!,awesome product,[],[],"['awesome', 'product']",0.6249,0.804,0.0,0.196,Positive,1.0,1.0,Postive,Neutral
+Dog Food,4,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Eggs,3,Disappointing product!,disappointing product,[],[],"['disappointing', 'product']",-0.4939,0.0,0.762,0.238,Negative,-0.6,0.7,Negative,Negative
+Eggs,3,Poor quality!,poor quality,[],[],"['poor', 'quality']",-0.4767,0.0,0.756,0.244,Negative,-0.4,0.6,Netural,Neutral
+Eggs,4,Very pleased!,very pleased,[],[],['pleased'],0.4927,0.762,0.0,0.238,Positive,0.65,1.0,Postive,Neutral
+Fish Steak,2,Would not buy again!,would not buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Fish Steak,5,Excellent quality!,excellent quality,[],[],"['excellent', 'quality']",0.5719,0.787,0.0,0.213,Positive,1.0,1.0,Postive,Neutral
+Fish Steak,4,Great value for money!,great value for money,[],[],"['great', 'value', 'money']",0.7579,0.765,0.0,0.235,Positive,0.8,0.75,Postive,Neutral
+Green Bell Pepper,4,Highly recommended!,highly recommended,[],[],"['highly', 'recommended']",0.2716,0.677,0.0,0.323,Positive,0.16,0.5399999999999999,Netural,Neutral
+Green Bell Pepper,3,Would not recommend!,would not recommend,[],[],['recommend'],-0.2755,0.0,0.513,0.487,Negative,0.0,0.0,Netural,Neutral
+Green Bell Pepper,5,Excellent quality!,excellent quality,[],[],"['excellent', 'quality']",0.5719,0.787,0.0,0.213,Positive,1.0,1.0,Postive,Neutral
+Green Chili Pepper,4,Great product!,great product,[],[],"['great', 'product']",0.6249,0.804,0.0,0.196,Positive,0.8,0.75,Postive,Neutral
+Green Chili Pepper,1,Waste of money!,waste of money,[],[],"['waste', 'money']",-0.4215,0.0,0.583,0.417,Negative,-0.2,0.0,Netural,Neutral
+Green Chili Pepper,3,Very disappointed!,very disappointed,[],[],['disappointed'],-0.5256,0.0,0.772,0.228,Negative,-0.9750000000000001,0.9750000000000001,Negative,Negative
+Honey Jar,1,Very disappointed!,very disappointed,[],[],['disappointed'],-0.5256,0.0,0.772,0.228,Negative,-0.9750000000000001,0.9750000000000001,Negative,Negative
+Honey Jar,4,Highly impressed!,highly impressed,[],[],"['highly', 'impressed']",0.5256,0.772,0.0,0.228,Positive,1.0,1.0,Postive,Neutral
+Honey Jar,2,Very disappointed!,very disappointed,[],[],['disappointed'],-0.5256,0.0,0.772,0.228,Negative,-0.9750000000000001,0.9750000000000001,Negative,Negative
+Ice Cream,5,Very pleased!,very pleased,[],[],['pleased'],0.4927,0.762,0.0,0.238,Positive,0.65,1.0,Postive,Neutral
+Ice Cream,4,Excellent quality!,excellent quality,[],[],"['excellent', 'quality']",0.5719,0.787,0.0,0.213,Positive,1.0,1.0,Postive,Neutral
+Ice Cream,5,Highly impressed!,highly impressed,[],[],"['highly', 'impressed']",0.5256,0.772,0.0,0.228,Positive,1.0,1.0,Postive,Neutral
+Juice,5,Excellent quality!,excellent quality,[],[],"['excellent', 'quality']",0.5719,0.787,0.0,0.213,Positive,1.0,1.0,Postive,Neutral
+Juice,4,Would buy again!,would buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Juice,5,Awesome product!,awesome product,[],[],"['awesome', 'product']",0.6249,0.804,0.0,0.196,Positive,1.0,1.0,Postive,Neutral
+Kiwi,4,Highly recommended!,highly recommended,[],[],"['highly', 'recommended']",0.2716,0.677,0.0,0.323,Positive,0.16,0.5399999999999999,Netural,Neutral
+Kiwi,2,Would not buy again!,would not buy again,[],[],['buy'],0.0,0.0,0.0,1.0,Netural,0.0,0.0,Netural,Netural
+Kiwi,4,Fast shipping!,fast shipping,[],[],"['fast', 'shipping']",0.0,0.0,0.0,1.0,Netural,0.2,0.6,Netural,Netural
